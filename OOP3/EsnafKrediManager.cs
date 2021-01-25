@@ -13,7 +13,7 @@ namespace OOP3
 
         public void Hesapla()
         {
-            Console.WriteLine("");     
+            Console.WriteLine("Esnaf kredisi hesaplandı");     
         }
     }
 }
