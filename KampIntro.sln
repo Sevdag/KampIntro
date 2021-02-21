@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\At
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replection", "Replection\Replection.csproj", "{046F6FDA-ACFD-43B8-9F1B-EF8F9CC3A971}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{71817F13-5395-46F7-B434-82E18CF3C4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{020DFB1F-1D70-4D1F-9108-2961525670C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{046F6FDA-ACFD-43B8-9F1B-EF8F9CC3A971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{046F6FDA-ACFD-43B8-9F1B-EF8F9CC3A971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{046F6FDA-ACFD-43B8-9F1B-EF8F9CC3A971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71817F13-5395-46F7-B434-82E18CF3C4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71817F13-5395-46F7-B434-82E18CF3C4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71817F13-5395-46F7-B434-82E18CF3C4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71817F13-5395-46F7-B434-82E18CF3C4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020DFB1F-1D70-4D1F-9108-2961525670C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020DFB1F-1D70-4D1F-9108-2961525670C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020DFB1F-1D70-4D1F-9108-2961525670C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020DFB1F-1D70-4D1F-9108-2961525670C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
